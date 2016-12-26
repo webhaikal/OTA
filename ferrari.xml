@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ferrari>
-            <Filename>RR-N-v5.8.0-20161226-ferrari</Filename>
+            <Filename>RR-N-v5.8.0-20161226-ferrari.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
