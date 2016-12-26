@@ -2,11 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <hammerhead>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161216-hammerhead.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161224-hammerhead-xmas.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/hammerhead/</RomUrl>
+                title="Downloads"
+                description="Download latest builds">http://bit.ly/nougathh</RomUrl>
+            <RommUrl
+                id="romm"
+                title="Downloads mirror"
+                description="Mirror links for the builds">http://bit.ly/2hcet8P</RommUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
